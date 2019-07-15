@@ -2,9 +2,10 @@
 /* CSS Document */
 
 body{
-color:#9129BD;
-font-family:'Open Sans', Helvetica, sans-serif;
+color:#0E1729;
+font-family:Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif';
+font-size:400%;
 height:100%;
-margin:0;
-padding:0;
+margin:0 auto;
+text-align:center;
 }
